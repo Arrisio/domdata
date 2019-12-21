@@ -1,0 +1,57 @@
+.container {
+    position: relative;
+    width: 100%;
+    height: 100vh;
+}
+
+.input-area {
+    position: absolute;
+    top: 5px;
+    left: 32rem;
+    width: 300px;
+    display: flex;
+    align-items: baseline;
+    justify-content: space-around;
+    z-index: 1;
+}
+
+.input-area__raius {
+    width: 3rem;
+}
+
+.input-area__raius {
+    width: 3rem;
+}
+
+label {
+    display: flex;
+    flex-direction: column;
+}
+
+.input-area__button {
+    /* width: 8rem; */
+    margin: 5px;
+}
+
+.some_button {
+    color: rebeccapurple;
+}
+
+html,
+body {
+    width: 100%;
+    height: 100%;
+    padding: 0;
+    margin: 0;
+    font-family: Arial;
+    font-size: 12px;
+}
+
+#map {
+    width: 100%;
+    height: 100%;
+}
+
+.header {
+    padding: 5px;
+}
