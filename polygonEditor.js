@@ -1,5 +1,5 @@
 ymaps.ready(init);
-//service_url = 'http://127.0.01:8001/domdata'
+// service_url = 'http://127.0.01:8001/domdata'
 service_url = 'http://138.68.77.136:8001/domdata'
 
 function init() {
