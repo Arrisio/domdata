@@ -1,5 +1,6 @@
 ymaps.ready(init);
-service_url = 'http://ddb.2qwerty.com:8001/domdata'
+//service_url = 'http://ddb.2qwerty.com:8001/domdata'
+service_url = 'https://domdata-api.2qwerty.com/domdata'
 // service_url = 'http://138.68.77.136:8001/domdata'
 
 
